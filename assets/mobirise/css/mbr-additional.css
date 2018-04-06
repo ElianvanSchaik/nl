@@ -5746,7 +5746,7 @@ body {
 }
 .cid-qO5dnFoLp3 {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background: #ffffff;
 }
 .cid-qO5dnFoLp3 .media-container-row {
@@ -5786,6 +5786,9 @@ body {
     flex-basis: initial !important;
     padding: 0 0 2rem 0 !important;
   }
+}
+.cid-qO5dnFoLp3 P {
+  color: #767676;
 }
 .cid-qO3M9qwGC8 .navbar {
   background: #ffffff;
@@ -6178,7 +6181,7 @@ body {
 }
 .cid-qOrIBTZ2Jp {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background: #ffffff;
 }
 .cid-qOrIBTZ2Jp .media-container-row {
@@ -6218,6 +6221,9 @@ body {
     flex-basis: initial !important;
     padding: 0 0 2rem 0 !important;
   }
+}
+.cid-qOrIBTZ2Jp P {
+  color: #767676;
 }
 .cid-qO4qjcBKfr {
   padding-top: 30px;
