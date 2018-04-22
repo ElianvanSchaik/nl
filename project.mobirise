@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "elianvanschaiknl",
-    "currentPage": ".html",
+    "currentPage": "ebvs.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4213,7 +4213,7 @@
         }
       ]
     },
-    ".html": {
+    "ebvs.html": {
       "settings": {
         "main": true,
         "title": "Elian van Schaik",
